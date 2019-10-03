@@ -10,7 +10,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 
 ## Instructions
-- Clone the project
-- Download the dataset and unzip it
-- In the script modify the main_directory path
-- Run the script
+- Clone the project.
+- Download the dataset and unzip it.
+- In the script modify the main_directory file path.
+- Run the script.
